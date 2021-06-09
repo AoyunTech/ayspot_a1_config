@@ -14,8 +14,8 @@ right_front:
 left_hind:
   - LH_HIP_1
   - LH_THIGH_1
-  - LF_SHANK__1__1
-  - LF_FOOT__1__1
+  - LH_SHANK_1
+  - LH_FOOT_1
 
 right_hind:
   - RH_HIP_1
